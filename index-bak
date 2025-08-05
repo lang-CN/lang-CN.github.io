@@ -84,6 +84,7 @@
     </style>
     <!-- 引入Google字体 -->
     <link rel="stylesheet" href="stylesheets/google-fonts.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body class="bg-deep-space text-gray-200 overflow-x-hidden">
     <!-- 背景网格和扫描线 -->
